@@ -62,3 +62,5 @@ And that's it, add the tracker image to the pages you want to track and then hea
 - **Can I use this outside of GitHub?** Yep, [you certainly can](http://www.sitepoint.com/using-beacon-image-github-website-email-analytics/). It's a generic beacon service.
 
 - **Do I have to use ga-beacon.appspot.com?** You can if you want to - it's free. Alternatively, feel free to deploy your own instance directly on Google App Engine. The project is under MIT license.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-71328957-1/chromeskel_a/readme?pixel)](https://github.com/igrigorik/ga-beacon)
