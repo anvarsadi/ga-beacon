@@ -64,4 +64,4 @@ And that's it, add the tracker image to the pages you want to track and then hea
 - **Do I have to use ga-beacon.appspot.com?** You can if you want to - it's free. Alternatively, feel free to deploy your own instance directly on Google App Engine. The project is under MIT license.
 - Anvar with tc
 
-[![Analytics](https://ga-beacon.appspot.com/UA-71328957-1/chromeskel_a/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-71328957-1/ga-beacon/readme?pixel)](https://github.com/igrigorik/ga-beacon)
